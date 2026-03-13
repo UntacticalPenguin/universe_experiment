@@ -1,5 +1,5 @@
 #pragma once
-#include <<cstdint>
+#include <cstdint>
 #include <string>
 
 
@@ -22,4 +22,4 @@ struct Body {
     float colorIndex = 0.0f;
 
     bool hasMotion = false;
-}
+};
