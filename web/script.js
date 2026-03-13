@@ -103,9 +103,9 @@ const material = new THREE.ShaderMaterial({
     void main() {
       vec2 c = gl_PointCoord - vec2(0.5);
       float d = dot(c, c);
-      if (d > 0.25) discard;
-
-      float alpha = smoothstep(0.25, 0.0, d);
+      // Schärfere Kante, kleinerer Fade-Radius
+      if (d > 0.09) discard;
+      float alpha = smoothstep(0.09, 0.0, d);
       gl_FragColor = vec4(vColor, alpha);
     }
   `
@@ -189,7 +189,29 @@ function updateSunLabel() {
   sunLabel.style.display = 'block';
   sunLabel.style.left = `${sx}px`;
   sunLabel.style.top = `${sy}px`;
-  sunLine.style.transform = 'rotate(-28deg)';
+
+  // Dynamische Verbindung zur Box
+  const sunBox = document.getElementById('sun-box');
+  const labelRect = sunLabel.getBoundingClientRect();
+  const boxRect = sunBox.getBoundingClientRect();
+
+  // Startpunkt: Mittelpunkt der Sonne
+  const startX = labelRect.left + labelRect.width / 2;
+  const startY = labelRect.top + labelRect.height / 2;
+  // Endpunkt: Mittelpunkt der Box
+  const endX = boxRect.left + boxRect.width / 2;
+  const endY = boxRect.top + boxRect.height / 2;
+
+  // Berechne Winkel und Länge
+  const dx = endX - startX;
+  const dy = endY - startY;
+  const angle = Math.atan2(dy, dx) * 180 / Math.PI;
+  const length = Math.sqrt(dx * dx + dy * dy);
+
+  sunLine.style.width = `${length}px`;
+  sunLine.style.transform = `rotate(${angle}deg)`;
+  sunLine.style.left = '0px';
+  sunLine.style.top = '0px';
 }
 
 function animate() {
