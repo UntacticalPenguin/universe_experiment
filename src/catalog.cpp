@@ -3,6 +3,7 @@
 #include <fstream>
 #include <iostream>
 #include <sstream>
+#include <utility>
 
 // Split one CSV line by commas.
 // This simple version is enough for our generated stars_small.csv.
@@ -53,7 +54,7 @@ bool Catalog::loadCsv(const std::string& path) {
 
         auto parts = splitCsvLine(line);
 
-        // We expect at least:
+        // Expected columns:
         // id,name,x,y,z,vx,vy,vz,mag,ci
         if (parts.size() < 10) {
             continue;
@@ -75,7 +76,7 @@ bool Catalog::loadCsv(const std::string& path) {
         b.mag = static_cast<float>(toDouble(parts[8], 10.0));
         b.colorIndex = static_cast<float>(toDouble(parts[9], 0.0));
 
-        // For step 1, allow all stars to move.
+        b.isSun = false;
         b.hasMotion = true;
 
         bodies_.push_back(std::move(b));

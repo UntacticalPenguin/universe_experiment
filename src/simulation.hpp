@@ -1,19 +1,25 @@
 #pragma once
 
 #include <vector>
-#include "body.hpp"
 
-// Simulation owns the current star state and can advance it over time.
+#include "catalog.hpp"
+
+struct SimulationConfig {
+    int frameCount = 96;
+    int substepsPerFrame = 4;
+    double yearsPerFrame = 1000.0;
+};
+
+struct SimulationResult {
+    std::vector<Body> bodies;
+    std::vector<std::vector<Vec3>> frames;
+    double yearsPerFrame = 0.0;
+};
+
 class Simulation {
 public:
     void setBodies(std::vector<Body> bodies);
-
-    // Move the simulation forward by dtYears years.
-    void step(double dtYears);
-
-    const std::vector<Body>& bodies() const {
-        return bodies_;
-    }
+    SimulationResult precompute(const SimulationConfig& config) const;
 
 private:
     std::vector<Body> bodies_;

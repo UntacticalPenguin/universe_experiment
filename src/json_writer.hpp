@@ -1,10 +1,10 @@
 #pragma once
 
 #include <string>
-#include <vector>
-#include "body.hpp"
+
+#include "simulation.hpp"
 
 class JsonWriter {
 public:
-    static bool write(const std::string& path, const std::vector<Body>& bodies);
+    static bool writeScene(const std::string& path, const SimulationResult& result);
 };

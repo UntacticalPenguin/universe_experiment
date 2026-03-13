@@ -5,12 +5,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Universe Map</title>
   <link rel="stylesheet" href="style.css" />
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+    }
+  }
+  </script>
 </head>
 <body>
-  <canvas id="canvas"></canvas>
-  <div id="hud">
-    Wheel = zoom · Drag = pan
+  <div id="app">
+    <aside id="panel">
+      <div class="panel-title">LOCAL GAIA VIEWER</div>
+
+      <div class="panel-group">
+        <button id="toggle-crosshair" class="panel-button">Crosshair: On</button>
+        <button id="toggle-play" class="panel-button">Pause</button>
+      </div>
+
+      <div class="panel-group panel-stats">
+        <div id="stat-stars">Stars: --</div>
+        <div id="stat-frame">Frame: --</div>
+        <div id="stat-years">Years/frame: --</div>
+        <div id="stat-note">Right drag: pan · Left drag: orbit · Wheel: zoom</div>
+        <div id="stat-error"></div>
+      </div>
+    </aside>
+
+    <div id="viewer"></div>
+    <div id="crosshair" aria-hidden="true"></div>
+
+    <div id="sun-label" aria-hidden="true">
+      <div id="sun-line"></div>
+      <div id="sun-box">sun</div>
+    </div>
   </div>
-  <script src="script.js"></script>
+
+  <script type="module" src="script.js"></script>
 </body>
 </html>
