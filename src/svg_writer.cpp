@@ -58,7 +58,7 @@ bool SvgWriter::write(
             << "cy=\"" << screenY << "\" "
             << "r=\"" << radius << "\" "
             << "fill=\"white\" "
-            << "fill-opacity=\"0.85\" "
+            << "fill-opacity=\"0.57\" "
             << "/>\n";
     }
 

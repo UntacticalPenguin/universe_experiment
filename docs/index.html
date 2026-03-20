@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Universe Map</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <div id="app">
+    <aside id="panel">
+      <div class="panel-brand">
+        <div class="panel-logo"></div>
+        <div>
+          <div class="panel-title">RENDER STAR MAP</div>
+          <div class="panel-subtitle">galactocentric stars and gas</div>
+        </div>
+        <button class="panel-collapse-btn" data-target="panel" title="Collapse">−</button>
+      </div>
+
+      <div class="panel-group panel-controls-grid">
+        <button id="toggle-crosshair" class="panel-button">Crosshair: On</button>
+        <button id="toggle-lock-sun" class="panel-button">Lock Sun: Off</button>
+        <button id="toggle-sun-label" class="panel-button">Sun Label: On</button>
+        <button id="toggle-star-scaling" class="panel-button">Star Scaling: On</button>
+        <button id="toggle-cinematic-orbit" class="panel-button">Cinematic Orbit: Off</button>
+        <button id="toggle-play" class="panel-button">Pause</button>
+      </div>
+
+      <div class="panel-group panel-stats">
+        <div id="stat-stars">Stars: --</div>
+        <div id="stat-gas">Gas clouds: --</div>
+        <div id="stat-frame">Frame: --</div>
+        <div id="stat-years">Years/frame: --</div>
+        <div id="stat-visible">Visible stars: --</div>
+        <div id="stat-camera">Mouse: left orbit · right pan · wheel zoom</div>
+        <div id="stat-error"></div>
+      </div>
+    </aside>
+
+    <div id="viewer"></div>
+    <div id="crosshair" aria-hidden="true"></div>
+    <div id="label-layer" aria-hidden="true"></div>
+
+    <aside id="label-dock" aria-label="Object labels">
+      <div class="panel-header">
+        <div class="dock-title">Labels</div>
+        <button class="panel-collapse-btn" data-target="label-dock" title="Collapse">−</button>
+      </div>
+      <div class="dock-subtitle">Objects you can annotate</div>
+      <button id="toggle-all-labels" class="label-global-button">Hide All Labels</button>
+      <input id="label-search" class="label-search-input" type="text" placeholder="Search labels..." aria-label="Search labels" />
+      <div id="label-count" class="label-count"></div>
+      <div id="label-list" class="label-list"></div>
+    </aside>
+
+    <section id="orbit-pod" aria-label="Cinematic orbit control">
+      <div class="panel-header">
+        <div class="orbit-title">Orbit Control</div>
+        <button class="panel-collapse-btn" data-target="orbit-pod" title="Collapse">−</button>
+      </div>
+      <div class="orbit-subtitle">Choose up to two rotation directions</div>
+      <div class="orbit-compass" aria-hidden="true">
+        <div class="orbit-ring"></div>
+        <div id="orbit-compass-arrow" class="orbit-arrow"></div>
+        <div class="orbit-center-dot"></div>
+      </div>
+      <div id="orbit-vector-grid" class="orbit-vector-grid">
+        <button class="orbit-vector-button" data-axis="x" data-sign="-1">-X</button>
+        <button class="orbit-vector-button" data-axis="x" data-sign="1">+X</button>
+        <button class="orbit-vector-button is-active" data-axis="y" data-sign="1">+Y</button>
+        <button class="orbit-vector-button" data-axis="y" data-sign="-1">-Y</button>
+        <button class="orbit-vector-button is-active" data-axis="z" data-sign="1">+Z</button>
+        <button class="orbit-vector-button" data-axis="z" data-sign="-1">-Z</button>
+      </div>
+      <div id="orbit-vector-summary" class="orbit-vector-summary">Active: +Y, +Z</div>
+      <div class="orbit-hint">Click a direction to toggle it. Up to two axes stay active.</div>
+      <button id="orbit-vector-reset" class="orbit-mini-button">Reset Orbit Vector</button>
+      <label class="orbit-speed-block" for="orbit-speed">
+        <span id="orbit-speed-label">Speed: 0.18x</span>
+        <input id="orbit-speed" type="range" min="0" max="100" value="18" />
+      </label>
+    </section>
+  </div>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,808 @@
+HD,BFD,Name,r_Name
+358,21 alf   And,Alpheratz,"2,15,17,19,22"
+358,21 alf   And,Sirrah,"2,17"
+358,21 alf   And,Alpherat,Sirah
+358,21 alf   And,Al'faret,23
+358,21 alf   And,Al'ferats,"21,23,24"
+358,21 alf   And,Sirrakh,24
+432,11 bet   Cas,Caph,"2,15,17,19,22"
+432,11 bet   Cas,Chaph,Kaff
+432,11 bet   Cas,Kaf,"21,23,24"
+432,11 bet   Cas,Shaf,"23,24"
+886,88 gam   Peg,Algenib(also HD20902),"2,15,17,19,22"
+886,88 gam   Peg,Al'genib,"23,24"
+1522,8 iot   Cet,Deneb Kaitos Shemali,Deneb Kaitos Al Shamaliyy
+1522,8 iot   Cet,Deneb al' Shemali,23
+2261,alf   Phe,Ankaa,"2,15,19,23"
+2261,alf   Phe,Nair al Zaurak,Cymbae
+3712,18 alf   Cas,Schedar,"2,15,22"
+3712,18 alf   Cas,Schedir,"2,17"
+3712,18 alf   Cas,Shedir,"2,19,21,24"
+3712,18 alf   Cas,Shedar,"23,24"
+4128,16 bet   Cet,Diphda,"2,15,17,19"
+4128,16 bet   Cet,Deneb Kaitos,"2,15,17,22,23"
+4128,16 bet   Cet,Difda,"2,23,24"
+4128,16 bet   Cet,Difda al Thani,Rana Secunda(also HD23249)
+4128,16 bet   Cet,"the ""Second Frog"",the ""First Frog"" is HD216956",2
+4128,16 bet   Cet,Deneb Kajtos,24
+4614,24 eta   Cas,Achird,"2,17"
+6582,30 mu.   Cas,Marfak (with HD6961),2
+6805,31 eta   Cet,Dheneb,Deneb
+6860,43 bet   And,Mirach,"2,15,17,19,22"
+6860,43 bet   And,Merach,"Mirak(also  HD95418,129989)"
+6860,43 bet   And,Mirac(also HD129989),"al Mizar(also HD116656,129989)"
+6860,43 bet   And,Mirakh,"21,23,24"
+6961,33 the   Cas,Marfak (with HD6582),2
+8207,46 ksi   And,Adhil,2
+8538,37 del   Cas,Ruchbah(also HD11415),"2,15"
+8538,37 del   Cas,Ksora,Rucha
+8538,37 del   Cas,Rucba(also HD181869),2
+8538,37 del   Cas,Rukba,23
+8890,1 alf   UMi,Polaris,"2,15,17,19,22"
+8890,1 alf   UMi,Cynosura,"2,17"
+8890,1 alf   UMi,Alruccaba,17
+8890,1 alf   UMi,Alruccabah,Phoenice
+8890,1 alf   UMi,Angel Stern,Navigatoria
+8890,1 alf   UMi,Polyarnaya,"21,23,24"
+8890,1 alf   UMi,Al'rukaba,Kinosura
+9270,99 eta   Psc,Al'farg,24
+10144,alf   Eri,Achernar,"2,15,17,19,22"
+10144,alf   Eri,Akhenar,"21,23,24"
+10761,110 omi   Psc,Torcularis Septentrionalis,2
+11353,55 zet   Cet,Baten Kaitos,"2,15,17,23"
+11353,55 zet   Cet,Baten Kajtos,24
+11415,45 eps   Cas,Segin,"2,17,23"
+11415,45 eps   Cas,"Ruchbah(Allen,see HD8538)",2
+11443,2 alf   Tri,Metallah(see HD150798),Mothallah
+11443,2 alf   Tri,Atria(see HD150798),Ras al Muthallah
+11443,2 alf   Tri,Caput Trianguli,"2,23"
+11443,2 alf   Tri,Metallakh,Motallakh
+11502,5 gam01 Ari,Mesarthim,"2,17"
+11502,5 gam01 Ari,Mesartim,First Star in Aries
+11502,5 gam01 Ari,Mezartim,24
+11502,5 gam01 Ari,Mesartkhim,23
+11503,5 gam02 Ari,Mesartkhim,23
+11636,6 bet   Ari,Sheratan,"2,15,17,21,23,24"
+11636,6 bet   Ari,Sharatan,Al Sharatain
+12446,113 alf   Psc,Alrisha,Kaitain
+12446,113 alf   Psc,Al'risha,Okda
+12447,113 alf   Psc,Alrisha,Alrischa
+12447,113 alf   Psc,Rescha,Okda
+12447,113 alf   Psc,Al'risha,Okda
+12447,113 alf   Psc,Kantajn,Resha
+12533,57 gam01 And,Almach,"2,15,22"
+12533,57 gam01 And,Alamak,"2,17,23,24"
+12533,57 gam01 And,Almaak,"2,19"
+12533,57 gam01 And,Almak,Almaach
+12533,57 gam01 And,Al'mak,"21,24"
+12929,13 alf   Ari,Hamal,"2,15,17,19"
+12929,13 alf   Ari,Hemal,Hamul
+12929,13 alf   Ari,Khamal',"21,23,24"
+12929,13 alf   Ari,Gamal',"23,24"
+13994,7 chi   Per,"Misam(also HD19476,158899)",2
+14386,68 omi   Cet,Mira,"2,17,19,22,23"
+14386,68 omi   Cet,Mira(Kita),24
+14386,68 omi   Cet,Mira(Tseti),21
+16970,86 gam   Cet,Kaffaljidhma,"2,17"
+16970,86 gam   Cet,Al Kaff al Jidhmah,2
+16970,86 gam   Cet,Kaffalidma,23
+17506,15 eta   Per,Miram,"2,17"
+17824,2 tau02 Eri,Angetenar,Al Anchat al Nahr
+18322,3 eta   Eri,Azha,"2,15,17"
+18411,22 pi.   Per,Gorgonea Secunda,2
+18604,91 lam   Cet,Menkar(usually used for HD18884),2
+18622,the01 Eri,Acamar,"2,15,17,19"
+18622,the01 Eri,Akamar,"23,24"
+18623,the02 Eri,Akamar,23
+18884,92 alf   Cet,Menkar(also HD18604),"2,15,17,19,21,23,24"
+18884,92 alf   Cet,Mekab,"2,17,21,23"
+18884,92 alf   Cet,Menkab,"2,24"
+18884,92 alf   Cet,Monkar,2
+18884,92 alf   Cet,Mentar,22
+19058,25 rho   Per,Gorgonea Tertia,2
+19356,26 bet   Per,Algol,"2,15,17,19"
+19356,26 bet   Per,Gorgona,"2,17"
+19356,26 bet   Per,Gorgonea Prima,Demon Star
+19356,26 bet   Per,Algol',"23,24"
+19356,26 bet   Per,Rasehl'gul,24
+19356,26 bet   Per,Al'gol',21
+19476,27 kap   Per,"Misam(also HD13994,158899)","17,23"
+19656,28 ome   Per,Gorgonea Quarta,2
+19787,57 del   Ari,Botein,"2,17"
+19787,57 del   Ari,Botejn,23
+20320,13 zet   Eri,Zibal,"2,17"
+20902,33 alf   Per,Mirphak,"2,19"
+20902,33 alf   Per,Mirfak(also HD145001),"2,15,17,21,23,24"
+20902,33 alf   Per,Marfak,
+20902,33 alf   Per,Murfach,22
+20902,33 alf   Per,Algenib(also HD886),"2,17"
+20902,33 alf   Per,Al'genib,21
+20902,33 alf   Per,Marfik,24
+23180,38 omi   Per,Atik(also HD24398),Ati
+23180,38 omi   Per,Atiks,17
+23180,38 omi   Per,Atik,23
+23249,23 del   Eri,Rana(see HD4128),"2,17,23"
+23288,16       Tau,Celaeno,"2,17"
+23288,16       Tau,Celieno,Celeno
+23288,16       Tau,Tselano,21
+23288,16       Tau,Tselena,24
+23302,17       Tau,Electra,"2,15,17"
+23302,17       Tau,Ehlektra,"21,23,24"
+23338,19 q     Tau,Taygeta,"2,17"
+23338,19 q     Tau,Taygete,2
+23338,19 q     Tau,Tajgeta,"21,23,24"
+23408,20       Tau,Maia,"2,17"
+23408,20       Tau,Majya,"21,23,24"
+23432,21       Tau,Asterope,"2,17,21"
+23432,21       Tau,Sterope I,2
+23432,21       Tau,Asteropa,"23,24"
+23441,22       Tau,Sterope II,2
+23480,23       Tau,Merope,"2,17,21"
+23480,23       Tau,Meropa,"23,24"
+23630,25 eta   Tau,Alcyone,"2,15,17,19"
+23630,25 eta   Tau,Al'tsiona,"23,24"
+23630,25 eta   Tau,Al'tsione,21
+23850,27       Tau,Atlas,"2,15,17,23,24"
+23862,28       Tau,Pleione,"2,17,19"
+23862,28       Tau,Plejona,"23,24"
+23862,28       Tau,Plejone,21
+24398,44 zet   Per,Atik(also HD23180),15
+24398,44 zet   Per,Menkhib(also HD24912),17
+24912,46 ksi   Per,Menkib(also HD217906),"2,15,23"
+24912,46 ksi   Per,Menkhib(also HD24398),Menchib
+25025,34 gam   Eri,Zaurak,"2,15,17,19,23"
+25025,34 gam   Eri,Zaurac,Zaurack
+26574,38 omi01 Eri,Beid,"2,15,17"
+26965,40 omi02 Eri,Keid,Kied
+27371,54 gam   Tau,Hyadum I,2
+27697,61 del   Tau,Hyadum II,2
+28305,74 eps   Tau,Ain,"2,17"
+28305,74 eps   Tau,Oculus Boreus,2
+29139,87 alf   Tau,Aldebaran,"2,15,17,19,22"
+29139,87 alf   Tau,Palilicium,17
+29139,87 alf   Tau,Cor Tauri,Parilicium
+29139,87 alf   Tau,Palilitsij,Paliliya
+29139,87 alf   Tau,Al'debaran,"21,23,24"
+29291,52 ups02 Eri,Theemim,Beemin
+29291,52 ups02 Eri,Theemin,17
+29503,53 l     Eri,Sceptrum,"2,17"
+30652,1 pi.03 Ori,Tabit (see HD36512),"2,17,23"
+31398,3 iot   Aur,Hassaleh,"2,17"
+31964,7 eps   Aur,Al Anz,Almaaz
+32068,8 zet   Aur,"Hoedus I(with HD32630,one of the ""kids"")","2,17"
+32068,8 zet   Aur,Haedi,Haedus
+32630,10 eta   Aur,"Hoedus II (one of the kids, with HD32068)","2,17"
+33111,67 bet   Eri,Cursa,"2,15,17"
+33111,67 bet   Eri,Dhalim,2
+33111,67 bet   Eri,Kursa,"2,23"
+34029,13 alf   Aur,Capella,"2,15,17,19,22"
+34029,13 alf   Aur,Alhajoth,"2,17"
+34029,13 alf   Aur,Al'khajot,24
+34029,13 alf   Aur,Kapella,"21,23,24"
+34085,19 bet   Ori,Rigel,"2,15,17,19,22"
+34085,19 bet   Ori,Algebar,Elgebar
+34085,19 bet   Ori,Rigel',"21,23,24"
+35468,24 gam   Ori,Bellatrix,"2,15,17,19,22"
+35468,24 gam   Ori,the Amazon Star,2
+35468,24 gam   Ori,Bellatriks,"21,23,24"
+35497,112 bet   Tau,Alnath,"2,19"
+35497,112 bet   Tau,Nath,"2,17"
+35497,112 bet   Tau,El Nath,2
+35497,112 bet   Tau,Elnath,15
+35497,112 bet   Tau,Nat,"21,23,24"
+35497,112 bet   Tau,Ehl'nat,23
+35497,112 bet   Tau,Natkh,Ehl'Natkh
+36079,9 bet   Lep,Nihal,"2,15,17,19"
+36079,9 bet   Lep,Nibal,2
+36079,9 bet   Lep,Nikhal',23
+36486,34 del   Ori,Mintaka,"2,15,17,19,23,24"
+36486,34 del   Ori,Mintika,2
+36512,36 ups   Ori,Thabit,Tabit(see HD30652)
+36673,11 alf   Lep,Arneb,"2,15,17,19,23,24"
+36861,39 lam   Ori,Heka,"2,17"
+36861,39 lam   Ori,Meissa,2
+36861,39 lam   Ori,Kheka,Al'kheka
+37043,44 iot   Ori,Hatysa,"2,17"
+37043,44 iot   Ori,Nair al Saif,2
+37128,46 eps   Ori,Alnilam,"2,15,17,19"
+37128,46 eps   Ori,Alnihan,Alnitam
+37128,46 eps   Ori,Al'nilam,"23,24"
+37742,50 zet   Ori,Alnitak,"2,17,19"
+37742,50 zet   Ori,Alnitah,2
+37742,50 zet   Ori,Al'nitak,"23,24"
+37795,alf   Col,Phakt,"2,17"
+37795,alf   Col,Phact,"2,15"
+37795,alf   Col,Phaet,Phad(also HD103287)
+37795,alf   Col,Fakt,"21,23,24"
+38771,53 kap   Ori,Saiph,"2,15,17,19"
+38771,53 kap   Ori,Saif,23
+39425,bet   Col,Wazn,"2,15"
+39425,bet   Col,Wezn,2
+39801,58 alf   Ori,Betelgeuse,"2,15,17,19,22"
+39801,58 alf   Ori,Betelguex,Betelgeuze
+39801,58 alf   Ori,Betel'gejze,"21,23,24"
+40183,34 bet   Aur,Menkalinan,"2,15,17,21,23,24"
+40183,34 bet   Aur,Menkalina,2
+41116,1       Gem,"Propus(also HD42995,58207)",2
+42995,7 eta   Gem,Tejat Prior,"2,17"
+42995,7 eta   Gem,"Propus(also HD41116,58207)","2,23"
+42995,7 eta   Gem,Praepes,2
+42995,7 eta   Gem,Teyat Prior,Prop
+44402,1 zet   CMa,Furud,"2,15,17,23"
+44402,1 zet   CMa,Phurud,2
+44478,13 mu.   Gem,Tejat Posterior,"2,17"
+44478,13 mu.   Gem,Calx,Pish Pai
+44478,13 mu.   Gem,Teyat Posterior,Dirakh
+44743,2 bet   CMa,Mirzam,"2,15,17,21,23,24"
+44743,2 bet   CMa,Murzim,"2,23"
+44743,2 bet   CMa,"Mirza(also HD53244,116656)",2
+44743,2 bet   CMa,Mirtsam,"23,24"
+45348,alf   Car,Canopus,"2,15,17,19,22"
+45348,alf   Car,Suhel,"2,17"
+45348,alf   Car,Suhail,2
+45348,alf   Car,Sukhejl',24
+45348,alf   Car,Kanopus,"21,23,24"
+47105,24 gam   Gem,Alhena,"2,15,17,19"
+47105,24 gam   Gem,Al'khena,"23,24"
+48329,27 eps   Gem,Mebsuta,"2,15,17,23"
+48329,27 eps   Gem,Melucta,Meboula
+48737,31 ksi   Gem,Alzirr,2
+48915,9 alf   CMa,Sirius,"2,15,17,19,21,22,23,24"
+48915,9 alf   CMa,Canicula,"2,17"
+48915,9 alf   CMa,Dog Star,Aschere
+51250,18 mu.   CMa,Isida,24
+52089,21 eps   CMa,Adara,"2,17,23,24"
+52089,21 eps   CMa,Adhara,"2,15,19"
+52973,43 zet   Gem,Mekbuda,"2,17,23,24"
+53244,23 gam   CMa,Muliphein,"2,17"
+53244,23 gam   CMa,Muliphen,Isis
+54605,25 del   CMa,Wezen,"2,17"
+54605,25 del   CMa,Alwazn,Wesen
+54605,25 del   CMa,Vezen,23
+56986,55 del   Gem,Wasat,"2,15,17"
+56986,55 del   Gem,Wesat,2
+56986,55 del   Gem,Vasat,24
+56986,55 del   Gem,Vazad,23
+58207,60 iot   Gem,"Propus(see HD41116,42995)",2
+58350,31 eta   CMa,Aludra,"2,15,17,23"
+58715,3 bet   CMi,Gomeisa,"2,15,17"
+58715,3 bet   CMi,Algomeyla,Gomelza
+58715,3 bet   CMi,Gomejsa,23
+58715,3 bet   CMi,Gomejza,24
+60178,66 alf   Gem,Castor,"15,17"
+60178,66 alf   Gem,Kastor,"21,23,24"
+60179,66 alf   Gem,Castor,"2,19,22"
+60179,66 alf   Gem,Apollo,2
+60179,66 alf   Gem,Kastor,"21,23,24"
+61421,10 alf   CMi,Procyon,"2,15,17,19,22"
+61421,10 alf   CMi,Elgomaisa,"2,17"
+61421,10 alf   CMi,Algomeysa,Antecanis
+61421,10 alf   CMi,Protsion,"21,23,24"
+61421,10 alf   CMi,Ehl'gomajza,24
+61555,kap01 Pup,Markeb(see HD79940),"2,17"
+61555,kap01 Pup,Markab,2
+62509,78 bet   Gem,Pollux,"2,15,17,19,22"
+62509,78 bet   Gem,Hercules,2
+62509,78 bet   Gem,Polluks,"21,23,24"
+63700,7 ksi   Pup,Azmidiske,"2,17"
+63700,7 ksi   Pup,Asmidiske(also applied to HD80404),2
+66811,zet   Pup,Naos,"2,17,23"
+66811,zet   Pup,Suhail Hadar,2
+68257,16 zet01 Cnc,Tegmen,Tegmine
+68273,gam02 Vel,Suhail al Muhlif,Al Suhail al Muhlif
+68273,gam02 Vel,Spectral Gem of Southern Skies,2
+68273,gam02 Vel,Regor,23
+69267,17 bet   Cnc,Altarf,Al Tarf
+69267,17 bet   Cnc,Tarf,23
+70272,31       Lyn,Alsciaukat,Mabsuthat
+71129,eps   Car,Avior,"2,15,23"
+71369,1 omi   UMa,"Muscida(also HD72905,73108)","2,15"
+72905,3 pi.01 UMa,"Muscida(also HD71369,73108)",2
+73108,4 pi.02 UMa,"Muscida(also HD71369,72905)","2,17"
+73471,5 sig   Hya,Al Minliar al Shuja,Minchir
+73731,41 eps   Cnc,Praesepe,17
+73731,41 eps   Cnc,Prezepe,"21,24"
+74198,43 gam   Cnc,Asellus Borealis,"2,15,17"
+74198,43 gam   Cnc,Severnyj Oslenok,24
+74442,47 del   Cnc,Asellus Australis,"2,15,17"
+74442,47 del   Cnc,Juzhnyj Oslenok,24
+76644,9 iot   UMa,Talitha,"2,15,17"
+76644,9 iot   UMa,Talita,2
+76756,65 alf   Cnc,Acubens,"2,15,17"
+76756,65 alf   Cnc,Sertan,"2,17"
+76756,65 alf   Cnc,Sartan,2
+76756,65 alf   Cnc,Akubens,"23,24"
+78647,lam   Vel,Alsuhail,"2,17"
+78647,lam   Vel,Al Suhail al Wazn,Suhail
+78647,lam   Vel,Al' Sukhal',23
+79940,k     Vel,Markeb(see HD61555),24
+80007,bet   Car,Miaplacidus,"2,15,17"
+80007,bet   Car,Miaplatsidus,23
+80404,iot   Car,Tureis,"2,17"
+80404,iot   Car,Aspidiske,"2,15"
+80404,iot   Car,Turais,Scutulum
+81146,1 kap   Leo,Al Minliar al Asad,2
+81797,30 alf   Hya,Alfard,"2,17,22"
+81797,30 alf   Hya,Alphard,"2,15,19"
+81797,30 alf   Hya,Cor Hydrae,"2,17"
+81797,30 alf   Hya,Alphart,Kalbelaphard
+81797,30 alf   Hya,Al'fard,"21,23,24"
+82308,4 lam   Leo,Alterf,2
+83808,14 omi   Leo,Subra,"2,17"
+84441,17 eps   Leo,Ras Elased Australis,"2,17"
+84441,17 eps   Leo,Al Ras al Asad al Janubiyyah,Algenubi
+84441,17 eps   Leo,Al Ashfar(with HD85503),2
+84441,17 eps   Leo,Al'genubi,24
+85503,24 mu.   Leo,Ras Elased Borealis,"2,17"
+85503,24 mu.   Leo,Rasalas,"2,15,24"
+85503,24 mu.   Leo,Ras al Asad al Shamaliyy,Alshemali
+85503,24 mu.   Leo,Al Ashfar(with HD84441),2
+87737,30 eta   Leo,Al'dzhabkhakh,24
+87901,32 alf   Leo,Regulus,"2,15,17,19,22"
+87901,32 alf   Leo,Kalb,17
+87901,32 alf   Leo,Cor Leonis,Rex
+87901,32 alf   Leo,Kal'b,24
+87901,32 alf   Leo,Regul,"21,23,24"
+89021,33 lam   UMa,Tania Borealis,"2,15,17"
+89021,33 lam   UMa,Al Kafzah al Thaniyah(with HD89758),2
+89025,36 zet   Leo,Adhafera,"2,15,17"
+89025,36 zet   Leo,Aldhafara,Aldhafera
+89025,36 zet   Leo,Adkhafera,24
+89484,41 gam01 Leo,Algieba,"2,17,19"
+89484,41 gam01 Leo,Algeiba,Al Gieba
+89484,41 gam01 Leo,Al'gejba,"21,24"
+89484,41 gam01 Leo,Al'gieba,"23,24"
+89758,34 mu.   UMa,Tania Australis,"2,15,17"
+89758,34 mu.   UMa,Al Kafzah al Thaniyah(with HD89021),2
+93308,eta   Car,Foramen,24
+94264,46       LMi,Praecipua,2
+95272,7 alf   Crt,Alkes,"2,15,17"
+95272,7 alf   Crt,Al'kes,23
+95418,48 bet   UMa,Merak,"2,15,17,19,21,22,23,24"
+95418,48 bet   UMa,"Mirak(also HD6860,129989)",2
+95418,48 bet   UMa,Merakh,23
+95689,50 alf   UMa,Dubhe,"2,15,17,19,22"
+95689,50 alf   UMa,Dubb,Ak
+95689,50 alf   UMa,Dubkhe,"21,23,24"
+95689,50 alf   UMa,Dube,23
+95689,50 alf   UMa,Kaffa(see HD106591),21
+97603,68 del   Leo,Zosma,"2,15,17,23,24"
+97603,68 del   Leo,Zozma,Zosca
+97603,68 del   Leo,Tsolma,24
+97633,70 the   Leo,Chertan,"2,15"
+97633,70 the   Leo,Coxa,"2,17"
+97633,70 the   Leo,Chort,2
+97633,70 the   Leo,Khort,24
+98230,53 ksi   UMa,Alula Australe,17
+98231,53 ksi   UMa,Alula Australis,2
+98262,54 nu.   UMa,Alula Borealis,"2,15"
+98262,54 nu.   UMa,Alula Boreale,17
+98430,12 del   Crt,Labr,24
+100029,1 lam   Dra,Gianfar,"2,17"
+100029,1 lam   Dra,Giausar,15
+100029,1 lam   Dra,Giansar,Gaiusar
+102224,63 chi   UMa,Alkaphrah,El Koprah
+102647,94 bet   Leo,Denebola,"2,15,17,19,21,22,23,24"
+102647,94 bet   Leo,Deneb Aleet,2
+102870,5 bet   Vir,Zavijah,"Alaraph(see HD113226,116658)"
+102870,5 bet   Vir,Zavijava,"2,15"
+102870,5 bet   Vir,Zavyava,Zawijah
+102870,5 bet   Vir,Zavidzhava,Alaraf
+102870,5 bet   Vir,Al'araf,23
+103287,64 gam   UMa,Phad(also HD37795),"2,19"
+103287,64 gam   UMa,Phecda,"2,15,22"
+103287,64 gam   UMa,Phekda,"2,17"
+103287,64 gam   UMa,Phegda,Phekha
+103287,64 gam   UMa,Fekda,"21,23,24"
+105452,1 alf   Crv,Alchita,"2,17"
+105452,1 alf   Crv,Alchiba,Al Minliar al Ghurab
+105452,1 alf   Crv,Al'chiba,23
+105707,2 eps   Crv,Minkar,"2,17,23"
+106591,69 del   UMa,Megrez,"2,15,17,19,22"
+106591,69 del   UMa,Kaffa,"2,17"
+106591,69 del   UMa,Megrets,"21,23,24"
+106625,4 gam   Crv,Gienah(also HD197989),"2,15"
+106625,4 gam   Crv,Gienah Ghurab,2
+106625,4 gam   Crv,Dzhanakh,24
+106625,4 gam   Crv,Giena,23
+107259,15 eta   Vir,Zaniah,"2,15"
+107259,15 eta   Vir,Zannakh,24
+108248,alf01 Cru,Acrux,"2,15,19"
+108248,alf01 Cru,Akruks,"23,24"
+108249,alf02 Cru,Akruks,23
+108767,7 del   Crv,Algorab,"2,15,17,24"
+108767,7 del   Crv,Algores,Algoral
+108767,7 del   Crv,Al'gorab,23
+108903,gam   Cru,Gacrux,"2,15"
+108903,gam   Cru,Gakruks,23
+109358,8 bet   CVn,"Chara(the ""southern hound"" of the CVn)","2,15,23"
+109358,8 bet   CVn,"Asterion(the ""northen hound"" of the CVn)","2,17,23"
+109358,8 bet   CVn,Venatici,2
+109379,9 bet   Crv,Kraz,"2,17"
+109379,9 bet   Crv,Krats,23
+110379,29 gam   Vir,Porrima,"2,17,23,24"
+110379,29 gam   Vir,Arich,"2,17"
+110380,29 gam   Vir,Porrima,"23,24"
+111123,bet   Cru,Becrux,Mimosa
+111123,bet   Cru,Bekruks,Mimoza
+112185,77 eps   UMa,Alioth,"2,15,17,19,22"
+112185,77 eps   UMa,Aliath,2
+112185,77 eps   UMa,Aliot,"21,23,24"
+112300,43 del   Vir,Auva,"2,17,23"
+112300,43 del   Vir,Minelauva(also HD102870),"2,17"
+112413,12 alf02 CVn,Cor Caroli,"2,15,17,19,23"
+112413,12 alf02 CVn,Chara,17
+112413,12 alf02 CVn,Serdtse Karla,"23,24"
+112413,12 alf02 CVn,Kor Karoli,"21,23"
+112413,12 alf02 CVn,Khara,24
+113226,47 eps   Vir,Vindemiatrix,"2,15,17,19"
+113226,47 eps   Vir,Vindemiator,Vendemiatrix
+113226,47 eps   Vir,Protrigetrix,Protrygetor
+113226,47 eps   Vir,Vinde-Miatriks,23
+113226,47 eps   Vir,Vindemiatriks,24
+114378,42 alf   Com,Diadem,"2,17"
+116656,79 zet   UMa,"Mizar(also HD6860,129989)","2,15,17,19,22"
+116656,79 zet   UMa,Mizat,"Mirza(also HD44743,53244)"
+116656,79 zet   UMa,Mizar,21
+116656,79 zet   UMa,Mitsar,"23,24"
+116657,79 zet   UMa,Mitsar,23
+144217,8 bet01 Sco,Akrab,"23,24"
+116658,67 alf   Vir,Spica,"2,15,17,19,22"
+116658,67 alf   Vir,Azimech,"2,17"
+116658,67 alf   Vir,Spica Virginis,"Alaraph(see HD102870,113226)"
+116658,67 alf   Vir,Spika,"21,23,24"
+116658,67 alf   Vir,Dana,24
+116842,80 g     UMa,Alcor,"2,17,19,22"
+116842,80 g     UMa,Saidak,2
+116842,80 g     UMa,Al'cor,"21,23,24"
+118098,79 zet   Vir,Heze,"2,17"
+118098,79 zet   Vir,Kheze,23
+120315,85 eta   UMa,Alkaid,"2,15,17,19"
+120315,85 eta   UMa,Alcaid,22
+120315,85 eta   UMa,Benetnash,"2,17,21,23,24"
+120315,85 eta   UMa,Benetnasch,Elkeid
+120315,85 eta   UMa,Al'kand,24
+121370,8 eta   Boo,Mufrid,"2,17,23"
+121370,8 eta   Boo,Muphrid,"2,15"
+121370,8 eta   Boo,Mufride,Muphride
+121370,8 eta   Boo,Mifrid,24
+122451,bet   Cen,Agena,Hadar
+122451,bet   Cen,Khadar,"23,24"
+123139,5 the   Cen,Menkent,"2,15,23"
+123299,11 alf   Dra,Thuban,"2,15,17,19,22"
+123299,11 alf   Dra,Adib,Dragon's Tail
+123299,11 alf   Dra,Tuban,"21,23,24"
+124675,17 kap02 Boo,Asellus Tertius,2
+124850,99 iot   Vir,Syrma,"2,15"
+124897,16 alf   Boo,Arcturus,"2,15,17,19,22"
+124897,16 alf   Boo,Haris-el-sema,2
+124897,16 alf   Boo,Arktur,"21,23,24"
+125161,21 iot   Boo,Asellus Secondus,2
+125337,100 lam   Vir,Kkhambaliya,24
+126660,23 the   Boo,Asellus Primus,2
+127762,27 gam   Boo,Seginus,"2,15"
+127762,27 gam   Boo,Haris,"2,17"
+127762,27 gam   Boo,Ceginus(also HD139641),2
+127762,27 gam   Boo,Segin,24
+128620,alf   Cen,Rigel Kentaurus,"2,15"
+128620,alf   Cen,Rigil Kent,"2,19"
+128620,alf   Cen,Toliman,"2,17,23,24"
+128620,alf   Cen,Proksima,"23,24"
+128620,alf   Cen,Rigil' Kentavrus,23
+128621,alf   Cen,Proksima Kentavra,23
+129056,alf   Lup,Men,23
+129502,107 mu.   Vir,Rijl al Awwa,2
+129988,36 eps   Boo,Izar,"17,19"
+129988,36 eps   Boo,"Mirak(also HD6860,95418)",Pulcherrima
+129989,36 eps   Boo,Izar,Mirac(also HD6860)
+129989,36 eps   Boo,Mirach,"Mizar(see HD6860,116656)"
+130841,9 alf02 Lib,Zuben Elgenubi,Kiffa Australis
+130841,9 alf02 Lib,Zubenelgenubi,"2,15"
+130841,9 alf02 Lib,Elkhiffa Australis,2
+130841,9 alf02 Lib,Zuben Ehl'genubi,Kiffa Australis
+130841,9 alf02 Lib,Zuben ehl' Genubi,23
+130945,38 h     Boo,Merga,"2,17"
+130945,38 h     Boo,Marrha,El Mara el Musalsela
+131873,7 bet   UMi,Kocab,"2,19"
+131873,7 bet   UMi,Kochab,"2,15,17,22"
+131873,7 bet   UMi,"Kochah(with HD137422,136726- ""Guards of the Pole"")",2
+131873,7 bet   UMi,Kokhab,"21,23,24"
+132742,19 del   Lib,Zuben Elakribi,"2,17"
+133208,42 bet   Boo,Nekkar,"2,15,17,23"
+133208,42 bet   Boo,Merez,"2,17"
+133208,42 bet   Boo,Meres,2
+133208,42 bet   Boo,Merets,23
+133216,20 sig   Lib,Brachium,Cornu
+133216,20 sig   Lib,Zuben Hakrabi(also HD133774),2
+133774,21 nu.   Lib,Zuben Hakrabi(also HD133216),17
+135722,49 del   Boo,Printseps,24
+135742,27 bet   Lib,Zuben Elschemali,Kiffa Borealis
+135742,27 bet   Lib,Zubeneschamali,15
+135742,27 bet   Lib,Zuben Eschamali,Zuben el Chamali
+135742,27 bet   Lib,Zuben Ehl'shemali,Kiffa Borealis
+135742,27 bet   Lib,Zubenish,23
+136726,11       UMi,Pherkad Minor(see HD131873),2
+137391,51 mu.01 Boo,Alkalurops,"2,15,17"
+137391,51 mu.01 Boo,Inkalunis,Icalurus
+137422,13 gam   UMi,Pherkad,"2,15,17"
+137422,13 gam   UMi,Pherkad Major(see HD131873),2
+137422,13 gam   UMi,Ferkad,"23,24"
+137759,12 iot   Dra,Ed Asich,Eldsich
+137759,12 iot   Dra,Edasich,15
+137909,3 bet   CrB,Nusakan,"2,15,17,23"
+138905,38 gam   Lib,Zuben Elakrab,"2,17"
+138905,38 gam   Lib,Zuben Hakraki,Zuben el Hakrabi
+139006,5 alf   CrB,Alphekka,"2,19"
+139006,5 alf   CrB,Alphecca,"2,15,17,22"
+139006,5 alf   CrB,Gemma,"2,17,21,23,24"
+139006,5 alf   CrB,Gnosia,"2,17"
+139006,5 alf   CrB,Alphacca,The Jewel
+139006,5 alf   CrB,Zhemchuzhina,24
+139006,5 alf   CrB,Al'fakka,21
+139006,5 alf   CrB,Al'fekka,"23,24"
+139641,54 phi   Boo,Ceginus(also HD127762),17
+140573,24 alf   Ser,Unukalhai,"2,15,19"
+140573,24 alf   Ser,Unuk Elhaia,"2,17"
+140573,24 alf   Ser,Cor Serpentis,"2,17,23"
+140573,24 alf   Ser,Unuk al Hay,Unuk
+140573,24 alf   Ser,Unuk Ehl'khaja,24
+140573,24 alf   Ser,Unuk alb Khaj,Unuk-Ehl'khaja
+143275,7 del   Sco,Dschubba,"2,17"
+143275,7 del   Sco,Iclarkrau,2
+143275,7 del   Sco,Dzhubba,23
+144069,ksi   Sco,Graffias,24
+144070,ksi   Sco,"Grafias(see HD144217,152334)",2
+144217,8 bet01 Sco,Graffias,"2,15"
+144217,8 bet01 Sco,Acrab,Elacrab
+144217,8 bet01 Sco,"Grafias(also HD144070,152334)",Grassias
+144217,8 bet01 Sco,Ehlyakrab,24
+145001,7 kap   Her,Marsik,"2,17"
+145001,7 kap   Her,Marfik,Mirfak(also HD20902)
+145502,14 nu.   Sco,Jabbah,2
+145502,14 nu.   Sco,Lesath(also HD158408),17
+146051,1 del   Oph,Yed Prior,"2,15,17"
+146051,1 del   Oph,Yad,Yed
+146051,1 del   Oph,Jed Prior,24
+146791,2 eps   Oph,Yed Posterior,"2,15,17"
+146791,2 eps   Oph,Jed Posterior,24
+147165,20 sig   Sco,Alniyat,Al Niyat(with HD149438)
+148112,24 ome   Her,Kajam,"2,17"
+148112,24 ome   Her,Cujam,Cajam
+148478,21 alf   Sco,Antares,"2,15,17,19,21,22,23,24"
+148478,21 alf   Sco,Vespertilio,"2,17,24"
+148478,21 alf   Sco,Cor Scorpii,Kalb al Akrab
+148856,27 bet   Her,Kornephoros,"2,15,17"
+148856,27 bet   Her,Rutilicus,"2,17"
+148856,27 bet   Her,Korneforos,"2,23,24"
+148857,10 lam   Oph,Marfic,Marfik
+149438,23 tau   Sco,Alniyat,Al Niyat(with HD147165)
+149757,13 zet   Oph,Khan,24
+150798,alf   TrA,Atria(see HD11443),15
+150798,alf   TrA,Metallakh(see HD11443),24
+152334,zet02 Sco,"Grafias(also HD144070,144217)",17
+154905,21 mu.   Dra,Arrakis,17
+154906,21 mu.   Dra,Arrakis,Errakis
+155125,35 eta   Oph,Sabik,"2,17,23,24"
+155125,35 eta   Oph,Al'sabik,24
+155763,22 zet   Dra,Aldhibah,Eldsib
+155763,22 zet   Dra,Nodus I(also HD163588),17
+155763,22 zet   Dra,Nod,24
+156014,64 alf01 Her,Rasalgethi,"2,19,22"
+156014,64 alf01 Her,Ras Algethi,"2,17"
+156014,64 alf01 Her,Rasalegti,2
+156014,64 alf01 Her,Ras Al'geti,"21,23,24"
+156164,65 del   Her,Sarin,"2,17,23"
+158408,34 ups   Sco,Lesath(also HD145502),"2,15"
+158408,34 ups   Sco,Lesuth,2
+158408,34 ups   Sco,Lezat,Lezakh
+158899,76 lam   Her,Maasym,"2,17"
+158899,76 lam   Her,Masym,"Misam(also HD13994,19476)"
+158926,35 lam   Sco,Shaula,"2,15,17,19,23,24"
+159181,23 bet   Dra,Rastaban(also HD164058),"2,15,23,24"
+159181,23 bet   Dra,Alwaid,"2,17"
+159181,23 bet   Dra,Asuia,Rastaben
+159532,the   Sco,Sargas,"2,23"
+159541,24 nu.01 Dra,Kuma,17
+159560,25 nu.02 Dra,Kuma,2
+159561,55 alf   Oph,Rasalhague,"2,15,19,22"
+159561,55 alf   Oph,Ras Alhague,"2,17"
+159561,55 alf   Oph,Ras Al'khag,"23,24"
+159561,55 alf   Oph,Rasal'khag,23
+159561,55 alf   Oph,Ras Al'khage,21
+161096,60 bet   Oph,Cebalrai,"2,15"
+161096,60 bet   Oph,Kelb Alrai,"2,17"
+161096,60 bet   Oph,Kabalrai,Cheleb
+161096,60 bet   Oph,Tsel'bal'raj,"23,24"
+161096,60 bet   Oph,Tsebal'raj,23
+162003,31 psi   Dra,Dziban,"2,17"
+162003,31 psi   Dra,Dsiban,2
+163588,32 ksi   Dra,Grumium,"2,15,17"
+163588,32 ksi   Dra,Genam,Nodus I(also HD155763)
+163917,64 nu.   Oph,Sinistra,24
+164058,33 gam   Dra,Etamin,"2,17,19"
+164058,33 gam   Dra,Eltanin,15
+164058,33 gam   Dra,Rastaban(also HD159181),"2,17"
+164058,33 gam   Dra,Etanin,Ettanin
+164058,33 gam   Dra,Ehtamin,"21,23,24"
+164975,W     Sgr,Nash,Alnasl
+164975,W     Sgr,Nushaba(see HD165135),2
+165135,10 gam   Sgr,Nash,Nushaba(see HD164975)
+165135,10 gam   Sgr,Alnasl,"2,15"
+165135,10 gam   Sgr,Alwazl,Zujj al Nushshabah
+166205,23 del   UMi,Yildun,"2,17"
+166205,23 del   UMi,Vildiur,Gildun
+166205,23 del   UMi,Pherkard,17
+166205,23 del   UMi,Jildun,23
+166937,13 mu.   Sgr,Polis,24
+168454,19 del   Sgr,Kaus Media,"2,15"
+168454,19 del   Sgr,Kaus Medius,17
+168454,19 del   Sgr,Kaus Meridionalis,"2,23"
+168454,19 del   Sgr,Media,2
+168454,19 del   Sgr,Kaus Meridianalis,24
+169022,20 eps   Sgr,Kaus Australis,"2,15,17,19,23,24"
+169702,2 mu.   Lyr,Alathfar,Al Athfar
+169916,22 lam   Sgr,Kaus Borealis,"2,15,17,23"
+172167,3 alf   Lyr,Vega,"2,15,17,19,21,22,23,24"
+172167,3 alf   Lyr,Wega,Fidis
+174638,10 bet   Lyr,Sheliak,"2,15,17,19,23,24"
+174638,10 bet   Lyr,Shelyak,Shiliak
+174974,32 nu.01 Sgr,Ain al Rami,2
+175191,34 sig   Sgr,Nunki,"2,15,17,19,23,24"
+175191,34 sig   Sgr,Sadira,2
+175191,34 sig   Sgr,Pelag,24
+175638,63 the01 Ser,Alya,"2,15,17"
+175638,63 the01 Ser,Alga,2
+176411,13 eps   Aql,"Deneb el Okab(see HD182640,177724)",Deneb(see HD177724)
+176437,14 gam   Lyr,Sulafat,"2,15,23"
+176437,14 gam   Lyr,Sulaphat,"2,17"
+176687,38 zet   Sgr,Ascella,"2,17"
+176687,38 zet   Sgr,Askela,24
+176687,38 zet   Sgr,Astsella,"23,24"
+177241,39 omi   Sgr,Manubrij,24
+177482,sig   Oct,Polaris Australis,2
+177724,17 zet   Aql,"Deneb el Okab(see HD182640,176411)",Deneb(see HD176411)
+178253,alf   CrA,Alfecca Meridiana,2
+178524,41 pi.   Sgr,Albaldah,Al Baldah
+180163,20 eta   Lyr,Aladfar,2
+180711,57 del   Dra,Altais,"2,15"
+180711,57 del   Dra,Aldib,"2,17"
+180711,57 del   Dra,Nodus Secundus,2
+180711,57 del   Dra,Nodus II,17
+180711,57 del   Dra,Al'tais,23
+181454,bet01 Sgr,Arkab Prior,"2,17"
+181454,bet01 Sgr,Arkab,"2,15"
+181454,bet01 Sgr,Urkab(with HD181623),2
+181623,bet02 Sgr,Arkab Posterior,"2,17"
+181623,bet02 Sgr,Arkab,Urkab(with HD181454)
+181869,alf   Sgr,Rukbat,"2,15,17"
+181869,alf   Sgr,Alrami,"2,17"
+181869,alf   Sgr,Rucba(also HD8538),Rukbat al Rami
+182640,30 del   Aql,"Deneb Okab(see HD176411,177724,188310)",17
+183439,6 alf   Vul,Anser (rarely used),2
+183912,6 bet01 Cyg,Albireo,"2,15,17,19"
+183912,6 bet01 Cyg,Al'bireo,"21,23,24"
+185144,61 sig   Dra,Alsafi,Athafi
+185758,5 alf   Sge,Sham,"2,17,23"
+185758,5 alf   Sge,Alsahm,2
+186791,50 gam   Aql,Tarazed,"2,15,17,19,23"
+186791,50 gam   Aql,Reda,"2,17"
+187642,53 alf   Aql,Altair,"2,15,17,19,22"
+187642,53 alf   Aql,Atair,"2,24"
+187642,53 alf   Aql,Al'tair,"21,23,24"
+188119,63 eps   Dra,Tyl,"2,17"
+188310,59 ksi   Aql,"Deneb Okab(see HD176411,177724,182640)",24
+188376,58 ome   Sgr,"Terebellum(see HD188603,189005,189763)",2
+188376,58 ome   Sgr,Terebell,24
+188512,60 bet   Aql,Alshain,"2,15,17,19,23"
+188512,60 bet   Aql,Alschairn,2
+188603,59 b01   Sgr,"Terebellum(see HD188376,189005,189763)",2
+189005,60 A     Sgr,Terebellum(see HD188376),2
+189763,62 c     Sgr,Terebellum(see HD188376),2
+192876,5 alf01 Cap,Prima Giedi,Algiedi Prima
+192947,6 alf02 Cap,Gredi,"2,17"
+192947,6 alf02 Cap,Algedi(with HD192876),"2,15,23"
+192947,6 alf02 Cap,Secunda Giedi,Algiedi Secunda
+192947,6 alf02 Cap,Deneb Al'gedi,Gnedi
+193432,8 nu.   Cap,Alshat,2
+193495,9 bet   Cap,Dabih,"2,15,17"
+193495,9 bet   Cap,Dabikh,"23,24"
+193495,9 bet   Cap,Dikhabda,24
+193924,alf   Pav,Peacock,"2,15"
+193924,alf   Pav,Pikok,23
+194093,37 gam   Cyg,Sadr,"2,15,23,24"
+194093,37 gam   Cyg,Sador,"2,17"
+194093,37 gam   Cyg,Sadir,2
+194636,10 pi.   Cap,Okul,24
+195556,45 ome01 Cyg,Ruchba(see HD195774),2
+195774,46 ome02 Cyg,Ruchba(see HD195556),2
+195774,46 ome02 Cyg,Rukbat al-dajajah,Al Rukbah al Dajajah
+195810,2 eps   Del,Deneb Dulfim,Deneb el Delphinus
+195810,2 eps   Del,Deneb ehl' Del'fini,24
+196524,6 bet   Del,Rotanev,"2,17,23"
+196524,6 bet   Del,Rotanen,Venator
+196867,9 alf   Del,Svalocin,"2,17"
+196867,9 alf   Del,Sualocin,Scalovin
+196867,9 alf   Del,Sualotsin,23
+197345,50 alf   Cyg,Deneb,"2,15,19,21,22,23,24"
+197345,50 alf   Cyg,Deneb Cygni,Arided
+197345,50 alf   Cyg,Deneb el Adige,Gallina
+197345,50 alf   Cyg,Aridif,"2,24"
+197989,53 eps   Cyg,Gienah(see HD106625),"2,17"
+197989,53 eps   Cyg,Gienah Cygni,2
+197989,53 eps   Cyg,Gienakh,23
+198001,2 eps   Aqr,Albali,"2,15,17"
+198001,2 eps   Aqr,Al Bali,2
+198001,2 eps   Aqr,Al'bali,23
+200499,22 eta   Cap,Arm,24
+202447,8 alf   Equ,Kitalpha,"2,15"
+202447,8 alf   Equ,Kitel Phard,Kitalphar
+202447,8 alf   Equ,Kital'fa,"23,24"
+202447,8 alf   Equ,Kital'fia,23
+203280,5 alf   Cep,Alderamin,"2,15,17,19,22"
+203280,5 alf   Cep,Alderaimin,2
+203280,5 alf   Cep,Al'deramin,"21,23,24"
+204867,22 bet   Aqr,Sadalsuud,"2,15,23,24"
+204867,22 bet   Aqr,Sadalsud,"2,17"
+204867,22 bet   Aqr,Sad es Saud,Sadalsund
+204867,22 bet   Aqr,Sad Ehl'zul,24
+205021,8 bet   Cep,Alfirk,"2,15"
+205021,8 bet   Cep,Alphirk,"2,17"
+205021,8 bet   Cep,Al'firk,23
+205637,39 eps   Cap,Kastra,24
+206088,40 gam   Cap,Nashira,"2,15,17,23,24"
+206672,80 pi.01 Cyg,Azelfafage,"2,17"
+206778,8 eps   Peg,Enif,"2,15,17,19"
+206778,8 eps   Peg,Enf,Enir
+206778,8 eps   Peg,Ehnif,"23,24"
+206936,mu.   Cep,Erakis,17
+206936,mu.   Cep,Granatovaya,24
+206936,mu.   Cep,Ehrakis,23
+207098,49 del   Cap,Deneb Algedi,"2,15"
+207098,49 del   Cap,Deneb Algiedi,Scheddi
+207098,49 del   Cap,Sheddi,2
+207098,49 del   Cap,Deneb Al'gedi,23
+207971,gam   Gru,Al'danab,23
+209750,34 alf   Aqr,Sadalmelik,"2,15,19"
+209750,34 alf   Aqr,Sadalmelek,"2,17,23"
+209750,34 alf   Aqr,Sadlamulk,El Melik
+209750,34 alf   Aqr,Sadal'melik,"23,24"
+209750,34 alf   Aqr,Sadal'melek,21
+209790,17 ksi   Cep,Alkurhah,Al Kirdah
+209952,alf   Gru,Alnair,"2,17,19"
+209952,alf   Gru,Al Nair,2
+209952,alf   Gru,Al Na'ir,15
+209952,alf   Gru,Al'nair,23
+210418,26 the   Peg,Biham,"2,15"
+210418,26 the   Peg,Baham,2
+210418,26 the   Peg,Bakham,23
+211391,43 the   Aqr,Ancha,"2,15,17"
+212061,48 gam   Aqr,Sadalachbia,"2,17"
+212061,48 gam   Aqr,Sadachbia,"2,15"
+213798,29 rho   Cep,Al Kalb al Rai,2
+214376,63 kap   Aqr,Situla,"2,17"
+214923,42 zet   Peg,Homam,"2,15,17"
+214923,42 zet   Peg,Homan,Humam
+214923,42 zet   Peg,Khomam,23
+215182,44 eta   Peg,Matar,"2,15,17,23"
+216131,48 mu.   Peg,Sadalbari,"15,23"
+216627,76 del   Aqr,Skat,"2,15,17,23,24"
+216627,76 del   Aqr,Scheat,2
+216627,76 del   Aqr,Sheat(see HD217906),"2,24"
+216956,24 alf   PsA,Fomalhaut,"2,17,19"
+216956,24 alf   PsA,Formalhaut,"15,22"
+216956,24 alf   PsA,Os Piscis Meridiani,Os Piscis Notii
+216956,24 alf   PsA,Fomal'gaut,"23,24"
+216956,24 alf   PsA,Fomal'khaut,21
+217891,4 bet   Psc,Fum al Samakah,2
+217906,53 bet   Peg,Scheat,"2,15,17,19,22"
+217906,53 bet   Peg,Sheat(see HD216627),"2,21,23,24"
+217906,53 bet   Peg,Seat Alpheras,Menkib(also HD24912)
+218045,54 alf   Peg,Markab(also HD220061),"2,15,17,19,21,22,23,24"
+218045,54 alf   Peg,Marchab,2
+218045,54 alf   Peg,Merkab,24
+220061,62 tau   Peg,Kerb,"2,17"
+220061,62 tau   Peg,Salm,Markab(also HD218045)
+222404,35 gam   Cep,Alrai,"2,17"
+222404,35 gam   Cep,Errai,"2,15"
+222404,35 gam   Cep,Arrai,Er Rai
+222404,35 gam   Cep,Al'rai,23

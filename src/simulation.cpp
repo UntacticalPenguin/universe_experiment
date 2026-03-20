@@ -76,9 +76,11 @@ void Simulation::setBodies(std::vector<Body> bodies) {
     bodies_ = std::move(bodies);
 }
 
-SimulationResult Simulation::precompute(const SimulationConfig& config) const {
-    if (config.frameCount < 2) {
-        throw std::runtime_error("frameCount must be at least 2");
+SimulationResult Simulation::precompute(
+    const SimulationConfig& config,
+    const std::function<void(int completedFrames, int totalFrames)>& onProgress) const {
+    if (config.frameCount < 1) {
+        throw std::runtime_error("frameCount must be at least 1");
     }
     if (config.substepsPerFrame < 1) {
         throw std::runtime_error("substepsPerFrame must be at least 1");
@@ -99,6 +101,10 @@ SimulationResult Simulation::precompute(const SimulationConfig& config) const {
             positions.push_back(body.pos);
         }
         result.frames.push_back(std::move(positions));
+
+        if (onProgress) {
+            onProgress(frame + 1, config.frameCount);
+        }
 
         if (frame + 1 == config.frameCount) {
             break;

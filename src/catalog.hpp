@@ -9,17 +9,9 @@ struct Vec3 {
     double y = 0.0;
     double z = 0.0;
 
-    Vec3 operator+(const Vec3& other) const {
-        return {x + other.x, y + other.y, z + other.z};
-    }
-
-    Vec3 operator-(const Vec3& other) const {
-        return {x - other.x, y - other.y, z - other.z};
-    }
-
-    Vec3 operator*(double s) const {
-        return {x * s, y * s, z * s};
-    }
+    Vec3 operator+(const Vec3& other) const { return {x + other.x, y + other.y, z + other.z}; }
+    Vec3 operator-(const Vec3& other) const { return {x - other.x, y - other.y, z - other.z}; }
+    Vec3 operator*(double s) const { return {x * s, y * s, z * s}; }
 
     Vec3& operator+=(const Vec3& other) {
         x += other.x;
@@ -45,7 +37,9 @@ struct Vec3 {
 
 struct Body {
     std::uint32_t id = 0;
+    std::string sourceId;
     std::string name;
+    std::string labelDebugReason;
 
     Vec3 pos;
     Vec3 vel;
@@ -59,7 +53,7 @@ struct Body {
 
 class Catalog {
 public:
-    bool loadCsv(const std::string& path);
+    bool loadCsv(const std::string& path, double sampleFraction = 1.0, bool append = false);
     const std::vector<Body>& bodies() const { return bodies_; }
 
 private:
